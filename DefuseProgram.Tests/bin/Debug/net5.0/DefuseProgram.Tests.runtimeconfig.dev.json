@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/bmmc_lm4l/.dotnet/store/|arch|/|tfm|",
+      "/Users/bmmc_lm4l/.nuget/packages"
+    ]
+  }
+}

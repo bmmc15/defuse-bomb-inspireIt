@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DefuseProgram/1.0.0": {
+        "dependencies": {
+          "DefuseBomb": "1.0.0"
+        },
+        "runtime": {
+          "DefuseProgram.dll": {}
+        }
+      },
+      "DefuseBomb/1.0.0": {
+        "runtime": {
+          "DefuseBomb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DefuseProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DefuseBomb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

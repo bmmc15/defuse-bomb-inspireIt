@@ -1,0 +1,12 @@
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/bin/Debug/net5.0/DefuseBomb.deps.json
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/bin/Debug/net5.0/DefuseBomb.dll
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/bin/Debug/net5.0/ref/DefuseBomb.dll
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/bin/Debug/net5.0/DefuseBomb.pdb
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/obj/Debug/net5.0/DefuseBomb.csproj.AssemblyReference.cache
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/obj/Debug/net5.0/DefuseBomb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/obj/Debug/net5.0/DefuseBomb.AssemblyInfoInputs.cache
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/obj/Debug/net5.0/DefuseBomb.AssemblyInfo.cs
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/obj/Debug/net5.0/DefuseBomb.csproj.CoreCompileInputs.cache
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/obj/Debug/net5.0/DefuseBomb.dll
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/obj/Debug/net5.0/ref/DefuseBomb.dll
+/Users/bmmc_lm4l/Downloads/defuse-bomb-inspireIt/DefuseBomb/obj/Debug/net5.0/DefuseBomb.pdb
